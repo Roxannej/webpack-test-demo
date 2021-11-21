@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.15.8",
+    "loader-utils": "^3.0.0",
+    "schema-utils": "^3.1.1",
+    "util": "^0.12.4",
+    "webpack": "^5.60.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.1"
+  }
+}
